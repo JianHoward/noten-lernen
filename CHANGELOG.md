@@ -17,3 +17,4 @@
 - chore: link the usage section
 - chore: clarify the setup steps
 - chore: link the usage section
+- docs: clarify the setup steps
