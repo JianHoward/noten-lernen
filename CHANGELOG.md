@@ -20,3 +20,4 @@
 - docs: clarify the setup steps
 - fix: add a note about the defaults
 - chore: link the usage section
+- chore: link the usage section
